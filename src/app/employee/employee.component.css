@@ -1,0 +1,49 @@
+.body{
+  background-image: linear-gradient(to bottom right, rgb(188, 232, 232), rgb(235, 203, 124)); 
+  height: 750px;
+}
+.b1{
+    position:absolute;
+    margin-top: 450px;
+    margin-left: 350px;
+    padding: 12px;
+    font-size: 25px;
+    width: 350px;
+}
+.img{
+    margin-top: 80px;
+    margin-left: 200px;
+    width: 1336px;
+    height: 600px;
+}
+.employee{
+    margin-top: -400px;
+    margin-left: 400px;
+    color:white;
+    font-weight: 800;
+    border: 1px solid red;
+}
+.backg{
+    margin-left: 850px;
+    border-radius: 20%;
+    margin-top: 120px;
+    width: 600px;
+}
+.job{
+    margin-left: 330px;
+    font-size: 54px;
+    margin-top: -365px;
+    color: #eb7a34;
+    /* font-family : Lobster; */
+
+}
+.role{
+    margin-left: 330px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+/* .java{
+    width: 30px;
+    margin-top: -240px;
+    margin-left: 1200px;
+} */

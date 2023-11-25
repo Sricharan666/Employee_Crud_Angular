@@ -1,0 +1,76 @@
+.navbar{
+    background-image: linear-gradient(to bottom right, rgb(111, 56, 252), rgb(248, 56, 107)); 
+    
+    height: 80px;
+    position: fixed;
+    width: 1536px;
+}
+.sri{
+    width: 130px;
+}
+.flex-column{
+    width: 200px;
+    background-image: linear-gradient(to bottom right, rgb(111, 56, 252), rgb(248, 56, 107)); 
+    height: 160px;
+}
+.nav-link{
+    color: rgb(224, 222, 222);
+    margin-left: 15px;
+}
+.nav-link :hover{
+    color: black;
+}
+.ver{
+    margin-top: 80px;
+    width: 15%;
+    position: fixed;
+    height: 680px;
+}
+.home{
+    font-weight: 400;
+    color: white;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.next{
+    font-weight: 400;
+    color: white;
+    margin-left: 110px;
+    font-size: 20px;
+}
+.next:hover{
+    cursor: pointer;
+}
+.user{
+    margin-top: 5px;
+    margin-left: 220px;
+    font-size: 24px;
+}
+.d-menu{
+    position :relative;
+    margin-left: 220px;
+}
+.regards{
+    color: rgb(195, 193, 193);
+    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 400;
+    border-radius: 10% 0% 0% 0%;
+}
+.r2{
+    padding-top: 20px;
+}
+.regards:hover{
+    cursor: pointer;
+    background-color: rgb(139, 3, 230);
+}
+.icons{
+   margin-right: 10px;
+}
+
+
+  
+
+  
+

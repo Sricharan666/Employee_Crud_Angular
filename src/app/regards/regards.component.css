@@ -1,0 +1,14 @@
+p{
+    margin-left: 25%;
+}
+.body{
+    background-image: linear-gradient(to bottom right, #f6f877, rgb(252, 127, 206));
+    height: 750px;
+}
+table{
+    position :absolute;
+    margin-top: 150px;
+    margin-left: 320px;
+    border: 1px solid black;
+    width: 1100px;
+}
